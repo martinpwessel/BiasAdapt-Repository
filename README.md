@@ -1,7 +1,7 @@
 # Automated Adversarial Dataset Augmentation using LLMs for Media Bias Detection
-This is the repository for the paper "Automated Adversarial Dataset Augmentation using LLMs for Media Bias Detection".
+This is the repository for the paper "LLM-based Adversarial Dataset Augmentation for Automatic Media Bias Detection".
 
-Abstract: "This study presents BiasAdapt, a novel data augmentation strategy designed to enhance the robustness of automatic media bias detection models. Leveraging the BABE dataset, BiasAdapt uses a generative language model to identify bias-indicative keywords and replace them with alternatives from opposing categories, thus creating adversarial examples that preserve the original bias labels. The contributions of this work are twofold: it proposes a scalable method for augmenting bias datasets with adversarial examples while preserving labels, and it publicly releases an augmented adversarial media bias dataset. The implications of this work extend beyond media bias detection, offering a framework for improving model robustness in various domains of text analysis."
+Abstract: "This study presents BiasAdapt, a novel data augmentation strategy designed to enhance the robustness of automatic media bias detection models. Leveraging the BABE dataset, BiasAdapt uses a generative language model to identify bias-indicative keywords and replace them with alternatives from opposing categories, thus creating adversarial examples that preserve the original bias labels. The contributions of this work are twofold: it proposes a scalable method for augmenting bias datasets with adversarial examples while preserving labels, and it publicly releases an augmented adversarial media bias dataset. Training on BiasAdapt reduces the reliance on spurious cues in four of the six evaluated media bias categories but is accompanied by changes in performance."
 
 It contains the following:    
 -- Data    
